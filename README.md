@@ -25,10 +25,10 @@ This foundation prepares users for advanced topics like:
 
 *Note: All commands were executed on Ubuntu 24.04 LTS. Paths and outputs may vary slightly across distributions.*
 
-```markdown
 # Shell Scripting Essentials: From Creation to Execution
 
 ## 1. Establishing the Workspace
+
 ![Current Directory](./img/1.%20PWD.jpg)
 
 **Command:**  
